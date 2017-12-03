@@ -1,0 +1,15 @@
+{
+  "name": "png-glass",
+  "version": "0.0.1",
+  "description": "PNG transparency optimizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Sabot <brunosabot@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "optipng": "^1.1.0",
+    "pngjs": "^3.3.1"
+  }
+}
