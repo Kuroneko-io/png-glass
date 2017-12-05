@@ -1,6 +1,6 @@
 {
   "name": "png-glass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PNG transparency optimizer",
   "main": "index.js",
   "scripts": {
