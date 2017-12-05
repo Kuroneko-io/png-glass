@@ -8,8 +8,22 @@
   },
   "author": "Bruno Sabot <brunosabot@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuroneko-io/png-glass.git"
+  },
   "dependencies": {
     "optipng": "^1.1.0",
     "pngjs": "^3.3.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Kuroneko-io/png-glass/issues"
+  },
+  "homepage": "https://github.com/Kuroneko-io/png-glass#readme",
+  "devDependencies": {},
+  "keywords": [
+    "png",
+    "transparency",
+    "optimize"
+  ]
 }
